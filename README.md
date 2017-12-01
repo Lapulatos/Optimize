@@ -15,3 +15,6 @@ Optr::Alg::SteepestDescentOptimizer
 
 ## Newton Method Optimize
 Optr::Alg::NewtonMethodOptimizer
+
+## DFP Optimize
+Optr::Alg::DFPOptimizer
